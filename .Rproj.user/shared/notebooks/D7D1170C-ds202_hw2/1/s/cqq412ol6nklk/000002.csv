@@ -1,0 +1,7 @@
+"0","#1"
+"0","numCompact <- dim (mpg[mpg$class == ""compact"",])[1]"
+"0","numCompact"
+"1","[1]"
+"1"," 47"
+"1","
+"
